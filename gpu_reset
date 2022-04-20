@@ -1,0 +1,2 @@
+ echo "2" > /sys/class/drm/card0/device/hwmon/hwmon2/pwm1_enable
+ echo "r" > /sys/class/drm/card0/device/pp_od_clk_voltage
